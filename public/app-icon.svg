@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Pladur Pro</title>
+  <rect width="512" height="512" rx="96" fill="#f7f2ea"/>
+  <rect x="104" y="112" width="304" height="288" rx="32" fill="#1f6f63"/>
+  <path fill="#f7f2ea" d="M160 176h192v48H160zM160 256h128v40H160zM160 328h160v40H160z"/>
+  <path fill="#f4b942" d="M320 248h64v120h-64z"/>
+</svg>

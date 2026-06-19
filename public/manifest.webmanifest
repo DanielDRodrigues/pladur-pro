@@ -1,0 +1,19 @@
+{
+  "name": "Pladur Pro",
+  "short_name": "Pladur Pro",
+  "description": "App para criar clientes, obras, medições e orçamentos de pladur.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2ea",
+  "theme_color": "#1f6f63",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
